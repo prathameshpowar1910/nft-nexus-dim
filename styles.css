@@ -1,0 +1,30 @@
+/* styles.css */
+.nft-card {
+  transition: transform 0.2s;
+}
+
+.nft-card:hover {
+  transform: translateY(-5px);
+}
+
+.btn-primary {
+  background-color: #3490dc;
+  color: #fff;
+  padding: 4px 8px;
+  border-radius: 0.25rem;
+}
+
+.btn-primary:hover {
+  background-color: #2779bd;
+}
+
+.btn-secondary {
+  background-color: #eee;
+  color: #333;
+  padding: 4px 8px;
+  border-radius: 0.25rem;
+}
+
+.btn-secondary:hover {
+  background-color: #ccc;
+}
